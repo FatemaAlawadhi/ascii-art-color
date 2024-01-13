@@ -11,7 +11,7 @@ To run the program, use the following command on Git Bash terminal:
 Usage: go run . [OPTION] [STRING]
 
 ```
-EX: go run . --color=<color> <letters to be colored> "something"
+EX: go run . --color=blue o "something"
 
 To run the Test File:
 
